@@ -1,0 +1,44 @@
+[
+{
+    "model": "product.category",
+    "pk": 1,
+    "fields": {
+        "name": "Vehicles"
+    }
+},
+{
+    "model": "product.category",
+    "pk": 2,
+    "fields": {
+        "name": "Toys"
+    }
+},
+{
+    "model": "product.category",
+    "pk": 3,
+    "fields": {
+        "name": "Shoes"
+    }
+},
+{
+    "model": "product.category",
+    "pk": 4,
+    "fields": {
+        "name": "Utensils"
+    }
+},
+{
+    "model": "product.category",
+    "pk": 5,
+    "fields": {
+        "name": "Electronics"
+    }
+},
+{
+    "model": "product.category",
+    "pk": 6,
+    "fields": {
+        "name": "Clothes"
+    }
+}
+]

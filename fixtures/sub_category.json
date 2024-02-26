@@ -1,0 +1,50 @@
+[
+{
+    "model": "product.subcategory",
+    "pk": 1,
+    "fields": {
+        "name": "Underwear",
+        "category": 6
+    }
+},
+{
+    "model": "product.subcategory",
+    "pk": 2,
+    "fields": {
+        "name": "Sweater",
+        "category": 6
+    }
+},
+{
+    "model": "product.subcategory",
+    "pk": 3,
+    "fields": {
+        "name": "T-Shirt",
+        "category": 6
+    }
+},
+{
+    "model": "product.subcategory",
+    "pk": 4,
+    "fields": {
+        "name": "Shirt",
+        "category": 6
+    }
+},
+{
+    "model": "product.subcategory",
+    "pk": 5,
+    "fields": {
+        "name": "Pajama",
+        "category": 6
+    }
+},
+{
+    "model": "product.subcategory",
+    "pk": 6,
+    "fields": {
+        "name": "Jeans",
+        "category": 6
+    }
+}
+]
